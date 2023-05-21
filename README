@@ -1,3 +1,7 @@
+This branch just contains the new DSLogic support commits from
+https://github.com/christianeisendle/libsigrok/tree/dslogic_u3pro16,
+rebased onto upstream libsigrok from git://sigrok.org
+
 -------------------------------------------------------------------------------
 README
 -------------------------------------------------------------------------------
